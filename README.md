@@ -1,8 +1,9 @@
-# 🔗 ShortLink - URL Shortening Web App
+
+# ShortLink - URL Shortening Web App
 
 This is a full-stack project that allows users to shorten URLs, view statistics, and manage their shortened links.
 
-## 🛠️ Technologies
+##  Technologies
 - **Frontend:** React
 - **Backend:** Node.js, Express
 - **Testing:** Jest, Supertest
@@ -10,9 +11,9 @@ This is a full-stack project that allows users to shorten URLs, view statistics,
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
-### 📦 Backend
+###  Backend
 1. Open terminal and navigate to `backend`:
    ```bash
    cd backend
@@ -27,7 +28,7 @@ This is a full-stack project that allows users to shorten URLs, view statistics,
    ```
 4. Backend will start at `http://localhost:5000`
 
-### 🌐 Frontend
+###  Frontend
 1. Open a new terminal and navigate to `frontend`:
    ```bash
    cd frontend
@@ -44,7 +45,7 @@ This is a full-stack project that allows users to shorten URLs, view statistics,
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 | Method   | Endpoint                                      
 -------------------
@@ -56,7 +57,7 @@ This is a full-stack project that allows users to shorten URLs, view statistics,
 
 
 
-## 🧪 Running Tests
+## Running Tests
 
 Tests are written with **Jest + Supertest** for the encode/decode endpoints.
 
@@ -74,5 +75,4 @@ Tests are written with **Jest + Supertest** for the encode/decode endpoints.
    ```bash
    npm test
   
-
 
